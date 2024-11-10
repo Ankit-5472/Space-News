@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/nav_video"
+        android:title="@string/video"
+        android:icon="@drawable/ic_video"/>
+
+    <item
+        android:id="@+id/nav_podcasts"
+        android:title="@string/podcasts"
+        android:icon="@drawable/ic_podcast"/>
+
+    <item
+        android:id="@+id/nav_saved"
+        android:title="@string/saved"
+        android:icon="@drawable/ic_saved"/>
+
+    <item
+        android:id="@+id/nav_more"
+        android:title="@string/more"
+        android:icon="@drawable/ic_more"/>
+
+</menu>
